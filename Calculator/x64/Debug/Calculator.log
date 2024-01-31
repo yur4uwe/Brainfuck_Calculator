@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\Calculator\MyForm.h(449,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\Calculator\MyForm.h(499,33): warning C4101: 'exept': unreferenced local variable
+C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\Calculator\MyForm.h(503): warning C4715: 'Calculator::MyForm::infixToPrefix': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator.vcxproj -> C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\x64\Debug\Calculator.exe

@@ -1,0 +1,3 @@
+C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\Yup4uwe\Desktop\Нова папка\Практика\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
